@@ -1,0 +1,10 @@
+MTProto脚本
+部署命令：
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/mtproxy.sh && chmod +x mtproxy.sh && bash mtproxy.sh
+
+
+操作系统：Ubuntu 18.04  Centos7.6-bbr
+
+睡眠中
+
+rm -f /var/run/yum.pid
